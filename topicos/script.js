@@ -34,9 +34,9 @@ console.log(array3);
  */
 
 
-const paises = ['Mexico','USA','Francia'];
+//const paises = ['Mexico','USA','Francia'];
 
-console.log(paises.includes('Francia'));
+//console.log(paises.includes('Francia'));
 
 
 
